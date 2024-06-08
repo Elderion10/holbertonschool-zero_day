@@ -84,3 +84,26 @@ cd holbertonschool-zero_day
 cd git
 git add .
 gidd commit -m "Add git directory"
+ls
+cd /root
+mkdir bash
+mkdir c
+mkdir js
+touch c/c_is_fun.c
+touch js/main.js
+touch js/index.js
+vi bash/best 
+cat bash/best
+less bash/best
+vi bash/school
+cat bash/school
+git add .
+git commit -m “Starting to code today, so cool”
+git commit -m “Scoomit -m "Starting to code today, so cool"
+git push
+git push Elderion10
+git push https://github.com/Elderion10/holbertonschool-zero_day
+git status
+git add .
+git commit -m 'Starting to code today, so cool'
+git push
