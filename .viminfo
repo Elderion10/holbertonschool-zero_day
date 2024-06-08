@@ -11,6 +11,8 @@
 # hlsearch on (H) or off (h):
 ~h
 # Command Line History (newest to oldest):
+:q!
+|2,0,1717864562,,"q!"
 :wq
 |2,0,1717861292,,"wq"
 
@@ -25,26 +27,50 @@
 # Registers:
 
 # File marks:
-'0  2  12  ~/bash/school
-|4,48,2,12,1717861292,"~/bash/school"
-'1  2  10  ~/bash/best
-|4,49,2,10,1717861172,"~/bash/best"
-'2  1  23  /holbertonschool-zero_day/git/README.md
-|4,50,1,23,1717854887,"/holbertonschool-zero_day/git/README.md"
+'0  1  0  ~/c/c_is_fun.c
+|4,48,1,0,1717864562,"~/c/c_is_fun.c"
+'1  2  12  ~/bash/school
+|4,49,2,12,1717861292,"~/bash/school"
+'2  2  10  ~/bash/best
+|4,50,2,10,1717861172,"~/bash/best"
+'3  1  23  /holbertonschool-zero_day/git/README.md
+|4,51,1,23,1717854887,"/holbertonschool-zero_day/git/README.md"
 
 # Jumplist (newest first):
+-'  1  0  ~/c/c_is_fun.c
+|4,39,1,0,1717864562,"~/c/c_is_fun.c"
 -'  2  12  ~/bash/school
 |4,39,2,12,1717861292,"~/bash/school"
+-'  2  12  ~/bash/school
+|4,39,2,12,1717861292,"~/bash/school"
+-'  1  0  ~/bash/school
+|4,39,1,0,1717861256,"~/bash/school"
 -'  1  0  ~/bash/school
 |4,39,1,0,1717861256,"~/bash/school"
 -'  2  10  ~/bash/best
 |4,39,2,10,1717861172,"~/bash/best"
 -'  2  10  ~/bash/best
 |4,39,2,10,1717861172,"~/bash/best"
+-'  2  10  ~/bash/best
+|4,39,2,10,1717861172,"~/bash/best"
+-'  2  10  ~/bash/best
+|4,39,2,10,1717861172,"~/bash/best"
 -'  1  0  ~/bash/best
 |4,39,1,0,1717861122,"~/bash/best"
 -'  1  0  ~/bash/best
 |4,39,1,0,1717861122,"~/bash/best"
+-'  1  0  ~/bash/best
+|4,39,1,0,1717861122,"~/bash/best"
+-'  1  0  ~/bash/best
+|4,39,1,0,1717861122,"~/bash/best"
+-'  1  23  /holbertonschool-zero_day/git/README.md
+|4,39,1,23,1717854887,"/holbertonschool-zero_day/git/README.md"
+-'  1  23  /holbertonschool-zero_day/git/README.md
+|4,39,1,23,1717854887,"/holbertonschool-zero_day/git/README.md"
+-'  1  23  /holbertonschool-zero_day/git/README.md
+|4,39,1,23,1717854887,"/holbertonschool-zero_day/git/README.md"
+-'  1  23  /holbertonschool-zero_day/git/README.md
+|4,39,1,23,1717854887,"/holbertonschool-zero_day/git/README.md"
 -'  1  23  /holbertonschool-zero_day/git/README.md
 |4,39,1,23,1717854887,"/holbertonschool-zero_day/git/README.md"
 -'  1  23  /holbertonschool-zero_day/git/README.md
@@ -55,6 +81,10 @@
 |4,39,1,23,1717854887,"/holbertonschool-zero_day/git/README.md"
 
 # History of marks within files (newest to oldest):
+
+> ~/c/c_is_fun.c
+	*	1717864542	0
+	"	1	0
 
 > ~/bash/school
 	*	1717861286	0
